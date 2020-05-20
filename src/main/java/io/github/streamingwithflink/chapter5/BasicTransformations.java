@@ -28,7 +28,10 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.util.Collector;
 
 /**
- * Example program to demonstrate simple transformation functions: filter, map, and flatMap.
+ * Example program to demonstrate simple transformation functions:
+ *  filter, map, and flatMap.
+ *
+ * Flink DataStream API基本转换操作
  */
 public class BasicTransformations {
 
